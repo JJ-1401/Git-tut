@@ -1,0 +1,1 @@
+{"name":"Local: cfd2p1","url":"d:\\vs code\\c++ files\\cfd2p1.cpp","tests":[{"id":1747140712838,"input":"2\n1\n2","output":"6\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\vs code\\c++ files\\cfd2p1.cpp","group":"local","local":true}
